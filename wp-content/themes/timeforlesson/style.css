@@ -1,0 +1,23 @@
+/*
+ Theme Name:   Time For Lesson
+ Theme URI:    http://timeforlesson.co.uk/
+ Description:  Time For Lesson Child Theme
+ Author:       Chris Levy
+ Author URI:   http://timeforlesson.co.uk/
+ Template:     fruitful
+ Version:      1.0.0
+*/
+
+
+@import url("../fruitful/style.css");
+
+.site-footer .site-info {
+    display: none;
+}
+
+#masthead .social-icon a{
+    background-image:url(images/social.png);
+}
+#masthead .social-icon a {
+    background-image:url(images/social.png);
+}
