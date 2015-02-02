@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Uniquely elegant, bespoke parties for children :: Moo Cow Events</title>
+<!--[if lte IE 8]>
+    	<style>
+            .slider6 .ribTxt span {
+                -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.70710678, M12=0.70710678, M21=-0.70710678, M22=0.70710678,sizingMethod='auto expand')";
+                color:#fff;
+            }
+            .slider6 .ribTxt {top:-37px; left:15px; }
+    	</style>
+    <![endif]-->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+<link href="css/nivo-slider.css" rel="stylesheet">
+<link href="css/anythingslider.css" rel="stylesheet">
+<link href="css/lightbox.css" rel="stylesheet" />
+<link href="css/style-cupcake.css" rel="stylesheet">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54297451-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Moo Cow Events - Uniquely elegant, bespoke parties for children">
+<meta itemprop="image" content="http://moocowevents.co.uk/img/logo.png">
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="website">
+<meta name="twitter:site" content="@moocowevents">
+<meta name="twitter:title" content="Moo Cow Events - Uniquely elegant, bespoke parties for children">
+<meta name="twitter:creator" content="@RandomSheepWD">
+<meta name="twitter:image" content="http://moocowevents.co.uk/img/logo.png">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="Moo Cow Events - Uniquely elegant, bespoke parties for children" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://moocowevents.co.uk/" />
+<meta property="og:image" content="http://moocowevents.co.uk/img/logo.png" />
+<meta property="og:site_name" content="Moo Cow Events" />
+
+
+
+
+</head>
+<body>
+<div class="ipad-box9">
+
+    <h4>PLACE YOUR BOOKING HERE!!!</h4>
+
+<div class="mCont">
+        <form action="form/table.php" method="post" class="contactForm table">
+            <fieldset>
+                <label class="q1">
+                    Year
+                    <input required name="year" type="text">
+                </label>
+                <label class="q1">
+                    Day
+                    <input required name="day" type="text">
+                </label>
+                <label class="q1">
+                    Month
+                    <input name="month" required type="text">
+                </label>
+                <label class="q1">
+                    Time
+                    <input name="time" required type="text">
+                </label>
+                <label class="q2">
+                    Name
+                    <input name="name" required type="text">
+                </label>
+                <label class="q1">
+                    Guests
+                    <input name="guests" required type="text">
+                </label>
+                <label>
+                    E-mail
+                    <input name="email" type="text">
+                </label>
+                <label class="q3">
+                    Telephone
+                    <input name="phone" required type="text">
+                </label>
+                <label>
+                    Special request
+                    <textarea name="request"></textarea>
+                </label>
+
+                <div class="submitHolder">
+                    <input type="submit" value="place booking">
+                </div>
+
+                <div class="clearfix"></div>
+            </fieldset>
+
+        </form>
+    </div>
+    <!-- mCont -->
+</div>
+<!-- box9 -->
+<div class="topBar"><div class="backg"></div><a href="javascript:void(0)" class="bookTable" >Book an Event</a></div>
+<div id="header">
+    <div class="container">
+
+        <div class="logoContainer">
+            <a href="index.php"><img src="img/logo.png" alt=""></a>
+        </div>
+
+        <div class="topData">
+            <ul class="social">
+                <li><a href="https://www.facebook.com/moocowevents" target="_blank" class="fb">Facebook</a></li>
+                <li><a href="https://twitter.com/MooCowEvents" target="_blank" class="twit">Twitter</a></li>
+                <li><a href="ContactUs" class="mail">E-mail</a></li>
+            </ul>
+
+            <address>
+                9 Westfield Crescent, Shiplake, Henley on Thames, Oxfordshire RG9 3LJ <br/> 07837 328 778
+            </address>
+
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <!-- container end -->
+</div>
+
+<!-- header end -->
+<div id="menuContainer">
+    <div class="container">
+        <ul class="mainMenu">
+            <li><a href="index.php">Home</a>
+            </li>
+            <li><a href="Gallery">Gallery</a></li>
+            <li><a href="Prices">Prices</a></li>
+            <li><a href="ContactUs">Contact</a></li>
+        </ul>
+        <div class="login">
+          <a href="javascript:void(0)" class="bookTable" id="bkTable">Book an Event</a>
+        </div>
+      <div class="clearfix"></div>
+    </div>
+</div>
+
+
+
+
+
+
+<div id="mainContent" class="fullWidth">
+
+<div class="slider6Back">
+    <div class="container">
+        <div class="slider6">
+            <div class="ribTxt"><span>    BOOK NOW!  </span></div>
+            <img src="img/slider6-frame.png" alt="" class="frame1">
+
+            <div class="sliderContent">
+
+                <div class="slider-wrapper">
+                    <div id="slider6Nivo" class="nivoSlider">
+                        <div class="slider1Frame">
+                            <img src="img/content/slider_big_01.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- container -->
+</div>
+
+<div class="container">
+    <h2 class="hdr4">Hi, I’m Georgie, owner of Moo Cow Events.</h2>
+    <p class="full">
+        I grew up living in the gorgeous Wiltshire countryside; I will always be a country girl at heart. 
+My favourite thing is just putting on my wellies and taking my 3 lovely dogs for a walk. There is just something so relaxing about walking when there’s no one else around, just a light breeze and if I’m lucky, some lovely sunshine – I always get my best ideas when out with the dogs, usually closely followed by big muddy paws on my chest, reminding me that whilst in the midst of these ideas I have forgotten to throw the ball! 
+    </br></br>
+    I love everything Vintage, especially designing vintage events, like arranging stunning roses and peonies for a bridal bouquet and taking my time decorating delicate vintage cupcakes for all sorts of occasions. 
+    </br></br>
+There is just something so romantic about all things Vintage, the colours, the soft edges and the muted patterns and tones used.
+</br></br>
+After 10 years working in events, from children’s parties to weddings, I thought to myself, why can’t your little ones birthday party, have the same thought, effort and beauty put into it that a wedding would?? 
+</br></br>
+So that’s how I came up with my idea, beautifully elegant children’s parties, individually tailored to your requirements, but all having the same amount of quality and thought put into them.
+I will be with you from beginning to end, from talking through ideas with you to make sure we get it exactly right. To handing you a glass of bubbly after the candles have been blown out and the last present unwrapped.
+</br></br>
+Nothing is to extravagant or intimate, I pride myself in attention to detail, so whatever idea you have we can make it work no matter how big or small, or if you have absolutely no idea what you want we can work with that to!! 
+</br></br>
+The most important thing is that we create an event that your child will remember for a long time, well... until next year when they want it bigger and better!!
+</br></br>
+Please don’t hesitate to contact me with and questions, queries or thoughts you may have.
+I look forward to hearing from you...		Georgie 
+</p>
+</div>
+</div>
+<!-- mainContent -->
+<div id="footer">
+    <div class="container">
+        <div class="footNotes">
+            <ul class="social">
+                <li><a href="https://www.facebook.com/moocowevents" target="_blank" class="fb">Facebook</a></li>
+                <li><a href="https://twitter.com/MooCowEvents" target="_blank" class="twit">Twitter</a></li>
+                <li><a href="ContactUs" class="mail">E-mail</a></li>
+            </ul>
+            <p>Copyright &copy; 2014 - 2015 Moo Cow Events | Powered by <a href="http://random-sheep.com" target="_blank">Random Sheep</a></p>
+
+            <div class="clearfix"></div>
+        </div>
+    </div>
+
+</div>
+
+
+<!-- footer -->
+
+<script src="js/jquery.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="js/jquery.nivo.slider.pack.js"></script>
+<script src="js/jquery.arctext.js"></script>
+<script src="js/jquery.anythingslider.min.js"></script>
+<script src="js/jQueryRotateCompressed.2.2.js"></script>
+<script src="js/contact-form.js"></script>
+
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        // rotate text
+        $(".slider6 .ribTxt span").rotate({angle:-45});
+
+        // init curved header
+        $('.curved').arctext({radius:250, rotate:true, dir:1});
+
+
+        // slider6 init
+        $('#slider6Nivo').nivoSlider({
+            effect:'random',
+            pauseTime:8000,
+            captionEasing:'linear',
+            slices:15, // For slice animations
+            boxCols:8, // For box animations
+            boxRows:4, // For box animations
+            animSpeed:500, // Slide transition speed
+            startSlide:0, // Set starting Slide (0 index)
+            directionNav:false, // Next & Prev navigation
+            controlNav:false, // 1,2,3... navigation
+            controlNavThumbs:false, // Use thumbnails for Control Nav
+            pauseOnHover:true, // Stop animation while hovering
+            manualAdvance:false, // Force manual transitions
+            prevText:'Prev', // Prev directionNav text
+            nextText:'Next', // Next directionNav text
+            randomStart:false, // Start on a random slide
+            beforeChange:function () {
+            }, // Triggers before a slide transition
+            afterChange:function () {
+            }, // Triggers after a slide transition
+            slideshowEnd:function () {
+            }, // Triggers after all slides have been shown
+            lastSlide:function () {
+            }, // Triggers when last slide is shown
+            afterLoad:function () {
+            } // Triggers when slider has loaded
+
+        });
+
+        $('.nivo-controlNav').prepend("<div class='lft'></div>");
+        $('.nivo-controlNav').append("<div class='rt'></div>");
+        $('.nivo-controlNav a').wrapAll("<div class='mid'>");
+        $('.nivo-controlNav div').wrapAll("<div class='navCent'>");
+
+
+
+        //slider7 init
+        $('#anythingSlider7').anythingSlider({
+            autoPlay: false,
+            expand: true,
+            pauseOnHover: true,
+            hashTags: false,
+            buildNavigation: false,
+            buildStartStop: false,
+            delay: 8000
+        });
+
+        // show book a table on click
+        $(".ipad-box9").hide();
+
+        $(".bookTable").click(function(){
+            $(".ipad-box9").slideToggle();
+
+            return false;
+        })
+
+
+    // show submenu on click
+
+    $("ul.mainMenu li.subMenu ul").hide();
+
+    $("ul.mainMenu li.subMenu > a").click(function () {
+        $("ul.mainMenu li.subMenu ul").hide();
+        $(this).next('ul').toggle();
+
+        return false;
+      });
+
+    // hide submenu when click outside menu container
+    $("body").click(function() {
+        $("ul.mainMenu li.subMenu ul").hide();
+    });
+
+
+
+    });
+
+</script>
+
+
+</body>
+</html>
