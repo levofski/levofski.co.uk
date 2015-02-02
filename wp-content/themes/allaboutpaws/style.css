@@ -84,7 +84,7 @@ p {color: #262626; font-size: 12px; line-height: 20px; margin: 0; padding: 0;}
 
 #header {}
 #header .logoContainer {float:left;}
-#header .logoContainer a {display:block; margin-top:51px;}
+#header .logoContainer a {display:block;}
 
 
 #header .topData {margin-top:85px; float:right; text-align:right; margin-right:7px;}

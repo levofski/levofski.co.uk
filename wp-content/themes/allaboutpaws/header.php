@@ -76,7 +76,7 @@
 					    </ul><!-- end .menu -->
  					<?php endif;	?>
         <div class="login">
-          <a href="javascript:void(0)" class="bookTable" id="bkTable">Book an Event</a>
+          <a href="javascript:void(0)" class="bookTable" id="bkTable"></a>
         </div>
       <div class="clearfix"></div>
     </div>
