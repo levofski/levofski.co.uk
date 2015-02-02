@@ -7,13 +7,17 @@ if (!empty($_SERVER['SCRIPT_FILENAME']) && 'functions.php' == basename($_SERVER[
 add_theme_support( 'post-thumbnails' );
 
 // load up jQuery and Twitter Bootstrap
-if( !is_admin()){
-   wp_deregister_script('jquery'); 
-   wp_register_script('jquery', ("https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"), false, '1.7.2'); 
-   wp_enqueue_script('jquery');
+add_action('wp_enqueue_scripts', 'enqueue_frontend_scripts');
+function enqueue_frontend_scripts()
+{
+	if (!is_admin()) {
+		wp_deregister_script('jquery');
+		wp_register_script('jquery', ("https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"), false, '1.7.2');
+		wp_enqueue_script('jquery');
 
-   wp_register_script('bootstrap', (get_bloginfo('template_directory') .'/js/bootstrap.min.js'), false, '2.0'); 
-   wp_enqueue_script('bootstrap');
+		wp_register_script('bootstrap', (get_bloginfo('template_directory') . '/js/bootstrap.min.js'), false, '2.0');
+		wp_enqueue_script('bootstrap');
+	}
 }
 
 /* 
